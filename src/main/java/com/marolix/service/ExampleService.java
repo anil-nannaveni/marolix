@@ -9,7 +9,7 @@ public class ExampleService {
 
     @GET
     public Response get() {
-        return Response.ok("Hello, world1!").build();
+        return Response.ok("Hello, worldprogramme!").build();
     }
 
 }
